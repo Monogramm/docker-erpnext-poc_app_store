@@ -19,7 +19,7 @@ This image was inspired by several other containers developed by the community:
 * [pipech/erpnext-docker-debian](https://github.com/pipech/erpnext-docker-debian) for the complete setup of apps and sites
 
 Additional apps:
-* https://github.com/AminovE99/erpnext_app_store: POC of an application to list remote Frappe apps (starting point of a real Frappe app store)
+* https://github.com/AminovE99/erpnext_app_store: POC of an application to list remote Frappe apps from https://github.com/Monogramm/erpnext_app_listing/ (possibly starting point of a real Frappe app store)
 
 Check base image [Monogramm/docker-erpnext](https://github.com/Monogramm/docker-erpnext) and [Monogramm/docker-frappe](https://github.com/Monogramm/docker-frappe) for details.
 
